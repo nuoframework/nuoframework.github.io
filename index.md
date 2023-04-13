@@ -2,9 +2,10 @@
 layout: default
 ---
 
-## About Me
+## Sobr
 
 <img class="profile-picture" src="profile_photo.jpg">
+
 
 
 ## Research Interest

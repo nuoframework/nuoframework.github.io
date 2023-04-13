@@ -11,7 +11,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://liktr.ee/nuofrwk"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Enlace a RRSS"
 
 sass:
     style: compressed
@@ -19,8 +19,7 @@ sass:
 
 nav:
  - name: "Sobre Mi"
-   link: "/about/"
- - name: "CV"
-   link: "resume.pdf"
+   link: "about"
  - name: "Contacto"
    link: "contact"
+
