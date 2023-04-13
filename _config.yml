@@ -2,6 +2,8 @@ title: Nuoframework Web
 url: "https://pabloarrabal.cf"
 baseurl: "/inicio"
 
+remote_theme: ankitsultana/researcher@gem
+
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
