@@ -1,4 +1,4 @@
-title: Nuoframework Web
+title: Pablo Arrabal as Nuoframework
 url: "https://nuoframework.github.io"
 baseurl: "/"
 
@@ -19,7 +19,7 @@ sass:
 
 nav:
  - name: "Sobre Mi"
-   link: "about"
+   link: "index"
  - name: "Contacto"
    link: "contact"
 

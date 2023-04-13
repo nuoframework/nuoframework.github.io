@@ -2,42 +2,17 @@
 layout: default
 ---
 
-## Sobr
+## Sobre Mí
 
 <img class="profile-picture" src="profile_photo.jpg">
 
+¡Hola! Soy Pablo Arrabal, profesional de ciberseguridad con más de 5 años de trayectoria en el mundo de la informática en todos sus aspectos. Soy una persona con ganas de aprender y trabajar, además de autodidacta, lo cual me permite ser muy polivalente.
 
+## Educación
 
-## Research Interest
+Tengo más de 20 cursos de formación realizados, además de contar con la titulación de Técnico de Ciberseguridad por el [incibe](https://www.incibe.es/), y titulado en una formación profesional de Sistemas Microinformaticos y Redes y con vista a realizar otra de grado superior acerca de Administración de Sistemas Informáticos en Red. Cuenta con muchos más cursos impartidos por las empresas de formación más grande y con más reconocimiento a nivel internacional como [IBM](https://www.ibm.com/es-es), [ESET](https://www.eset.com/es/), [Cisco](https://www.cisco.com/c/es_es/about.html), [Fundación Telefónica](https://www.fundaciontelefonica.com/) o el [CCN-CERT](https://www.ccn-cert.cni.es/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Experiencia
 
-## Publications
+Desde 2022 doy charlas formativas a estudiantes y docentes alrededor de Andalucía en centros educativos, mientras tanto, publico contenido y artículos relacionados con la seguridad informática en [Twitter](https://twitter.com/nuoframework) y [LinkedIn](https://www.linkedin.com/in/pabloarrabale/). En mi tiempo libre, acudo a charlas y congresos relevantes alrededor de España, así obteniendo experiencia, moviéndome entre diferentes ramas de este ámbito tan amplio y generando nuevos contactos y a su vez ampliando la red de ellos. En mis inicios comencé instalando un servidor NAS y configurando la red empresarial para [Marketing Para Gimnasios](https://marketingparagimnasios.com/)
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
