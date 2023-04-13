@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Nuoframework Web
+url: "https://pabloarrabal.cf"
+baseurl: "/inicio"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://liktr.ee/nuofrwk"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
@@ -16,9 +16,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
+ - name: "Sobre Mi"
+   link: "/about/"
+ - name: "CV"
    link: "resume.pdf"
- - name: "Contact"
+ - name: "Contacto"
    link: "contact"
