@@ -1,6 +1,6 @@
 title: Nuoframework Web
 url: "https://nuoframework.github.io"
-baseurl: "/inicio"
+baseurl: "/"
 
 remote_theme: ankitsultana/researcher@gem
 
