@@ -12,6 +12,11 @@ is_contact: true
 1. [LinkedIn](#)
 2. [Twitter](https://twitter.com/nuoframework)
 3. [Instagram](https://instagram.com/nuoframework)
+3. [My Public Inbox](https://mypublicinbox.com/Nuoframework)
+
+## Agradecimientos de MyPublicInbox
+
+<iframe src="https://mypublicinbox.com/bmac.html?profile=nuoframework" style="width: 100%; height: 132px; border: none"></iframe>
 
 ## Twitter Feed
 
