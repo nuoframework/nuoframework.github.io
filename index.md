@@ -12,6 +12,38 @@ layout: default
   gtag('config', 'G-5LV9LLG044');
 </script>
 
+<style>
+        body{
+        padding:0% 3% 10% 3%;
+        text-align:center;
+        }
+        h1{
+        color: #32a852;
+        margin-top:30px;
+        }
+      
+        button{
+            cursor: pointer;
+            border: 1px solid #555;
+            text-align: center;
+            padding: 5px;
+            margin-left: 8px; 
+        }
+        .dark{
+            background-color: #222;
+            color: #e6e6e6;
+        }
+    </style>
+
+<button onclick="myFunction()">Switch mode</button>
+
+<script>
+        function myFunction() {
+        var element = document.body;
+        element.classList.toggle("dark");
+        }
+</script>
+
 ## Sobre Mí
 
 <img class="profile-picture" src="profile_photo.jpg">
