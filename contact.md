@@ -18,7 +18,6 @@ is_contact: true
 6. [GitHub](https://github.com/nuoframework)
 7. [Signal](https://signal.group/#CjQKINPmOdSQwOSPdpPOSLg_24qooi4iKiUDtEwwnw0T6yetEhATA5M3xP5-8YbF16fus7Kj)
 
-
 ## Agradecimientos de MyPublicInbox
 
 Ahora, puedes darme agradecimientos en MyPublicInbox, apoyandome mediante los Tempos.
