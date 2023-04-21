@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<head>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+</head>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5LV9LLG044"></script>
 <script>
