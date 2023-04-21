@@ -12,10 +12,9 @@ layout: default
   gtag('config', 'G-5LV9LLG044');
 </script>
 
-
 ## Sobre Mí
 
-<img class="profile-picture" src="profile_photo.jpg">
+<img class="profile-picture" src="/resources/profile_photo.jpg">
 
 ¡Hola! Soy Pablo Arrabal, profesional de ciberseguridad con más de 5 años de trayectoria en el mundo de la informática en todos sus aspectos. Soy una persona con ganas de aprender y trabajar, además de autodidacta, lo cual me permite ser muy polivalente.
 
@@ -27,3 +26,6 @@ Tengo más de 20 cursos de formación realizados, además de contar con la titul
 
 Desde 2022 doy charlas formativas a estudiantes y docentes alrededor de Andalucía en centros educativos, mientras tanto, publico contenido y artículos relacionados con la seguridad informática en [Twitter](https://twitter.com/nuoframework) y [LinkedIn](https://www.linkedin.com/in/pabloarrabale/). En mi tiempo libre, acudo a charlas y congresos relevantes alrededor de España, así obteniendo experiencia, moviéndome entre diferentes ramas de este ámbito tan amplio y generando nuevos contactos y a su vez ampliando la red de ellos. En mis inicios comencé instalando un servidor NAS y configurando la red empresarial para [Marketing Para Gimnasios](https://marketingparagimnasios.com/)
 
+## Proyectos
+
+En 2021, se descubre un agujero de seguridad en los sistemas operativos proporcionados por la Junta de Andalucía para los centros educativos, se reporta al organismo sin respuesta, un año más tarde, tras ver que el organismo no responde, se decide reportar al CCN-CERT, estos se ponen en contacto con la autoridad competente y se hacen cargo del problema. Hay un [repositorio](https://github.com/nuoframework/educaandosreport) en desarrollo sobre este inconveniente de seguridad en GitHub.
