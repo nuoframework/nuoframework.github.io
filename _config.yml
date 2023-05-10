@@ -22,5 +22,7 @@ nav:
    link: "index"
  - name: "Contacto"
    link: "contact"
+ - name: "Blog"
+   link: "https://blonuoframework.github.io"
 
 
