@@ -3,7 +3,7 @@ email: contacto+blog@pabloarrabal.com
 timezone: GMT+2
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon.ico'
 author: Pablo
 paginate: 30
