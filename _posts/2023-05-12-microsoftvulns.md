@@ -1,17 +1,10 @@
 ---
-title: 'Vulnerabilidades de Microsoft: Una grave amenaza para la seguridad'
-date: 2023-05-12 10:00:00 +/-TTTT
-categories: [Cybersecurity, Vulnerabilities]
-tags: [cybersec, vulns, microsoft, windows, risk]
-author: ID1
-toc: true
-comments: true
-image:
-  path: /assets/descarga.jpeg
-  alt: "Imagen extraida de: The Hacker News"
+layout: post
+title:  "Vulnerabilidades de Microsoft: Una grave amenaza para la seguridad"
+author: Pablo
+categories: [ Cybersecurity, Authentication ]
+image: assets/images/5.jpg
 ---
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1924301613884130" crossorigin="anonymous"></script>
 
 Microsoft ha publicado una serie de vulnerabilidades en sus productos en los últimos meses. Estas vulnerabilidades afectan a una amplia gama de productos, incluidos Windows, Office, Visual Studio Code entre otros.
 
@@ -83,3 +76,4 @@ Microsoft recomienda a los usuarios que ***instalen las últimas actualizaciones
 1. `https://www.incibe.es/empresas/avisos/boletin-mensual-de-microsoft-mayo-2023`
 2. `https://msrc.microsoft.com/update-guide`
 3. `https://msrc.microsoft.com/update-guide/releaseNote/2023-May`
+

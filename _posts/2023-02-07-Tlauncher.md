@@ -1,21 +1,10 @@
 ---
-title: TLauncher, el anzuelo perfecto
-date: 2023-02-07 00:00:00 +/-TTTT
-categories: [Software, Malware]
-tags: [cybersec]
-author: ID1
-toc: true
-comments: true
-image:
-  path: /assets/1675765898945.jpeg
-  alt: "Imagen de: Santander Impulsa Empresa"
+layout: post
+title:  "TLauncher, el anzuelo perfecto"
+author: Pablo
+categories: [ Software, Malware ]
+image: assets/images/5.jpg
 ---
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1924301613884130" crossorigin="anonymous"></script>
-
-
-
 
 ## Historia de Tlauncher
 

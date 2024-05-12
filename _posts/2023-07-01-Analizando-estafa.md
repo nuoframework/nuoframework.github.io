@@ -1,14 +1,9 @@
 ---
-title: Destapando una organizacion criminal de criptomonedas empleando OSINT
-date: 2023-07-01 00:00:00 +/-TTTT
-categories: [Cybersecutity, Scams]
-tags: [cybersec, scams, accounts, crypto, OSINT, fake, cybercrime]
-author: ID1
-toc: true
-comments: true
-image:
-  path: /assets/629b93377bc6a80018b65a30.jpg
-  alt: "Imagen de: INSIDER"
+layout: post
+title:  "Destapando una organizacion criminal de criptomonedas empleando OSINT"
+author: Pablo
+categories: [ Cybersecutity, Scams ]
+image: assets/images/5.jpg
 ---
 
 ## Desmontando una organización criminal de criptomonedas.

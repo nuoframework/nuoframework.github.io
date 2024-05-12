@@ -1,14 +1,9 @@
 ---
-title: Desmontando la falsedad online
-date: 2023-06-22 00:00:00 +/-TTTT
-categories: [Cybersecutity, Scams]
-tags: [cybersec, scams, accounts, RRSS, social media, fake, cybercrime]
-author: ID1
-toc: true
-comments: true
-image:
-  path: /assets/2023-06-22-cuentasfalsas_como_identificarlas.jpg
-  alt: "Imagen de: Meta Platforms, Inc."
+layout: post
+title:  "Desmontando la falsedad online"
+author: Pablo
+categories: [ Cybersecutity, Scams ]
+image: assets/images/5.jpg
 ---
 
 ## ¿Qué es una cuenta falsa? ¿Cuál es su finalidad?

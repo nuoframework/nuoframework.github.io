@@ -1,14 +1,9 @@
 ---
-title: El arte de engañar al ojo humano
-date: 2023-06-06 00:00:00 +/-TTTT
-categories: [Cybersecutity, Scams]
-tags: [cybersec, scams, auth, risk, phising, future, cybercrime]
-author: ID1
-toc: true
-comments: true
-image:
-  path: /assets/2023-06-06-deepfakes.jpg
-  alt: "Imagen de: VPNOverview"
+layout: post
+title:  "El arte de engañar al ojo humano"
+author: Pablo
+categories: [ Cybersecutity, Scams ]
+image: assets/images/5.jpg
 ---
 
 ## ¿Que es un Deepfake? ¿Que tecnología hay detrás?
