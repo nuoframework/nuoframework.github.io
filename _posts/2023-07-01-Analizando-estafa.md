@@ -3,7 +3,7 @@ layout: post
 title:  "Destapando una organizacion criminal de criptomonedas empleando OSINT"
 author: Pablo
 categories: [ Cybersecutity, Scams ]
-image: assets/images/5.jpg
+image: assets/images/2023-07-01-Analizando-estafa/[PREV]-Analizando-estafa.jpg
 ---
 
 ## Desmontando una organización criminal de criptomonedas.

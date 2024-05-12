@@ -3,7 +3,7 @@ layout: post
 title:  "El arte de engañar al ojo humano"
 author: Pablo
 categories: [ Cybersecutity, Scams ]
-image: assets/images/5.jpg
+image: assets/images/2023-06-06-Deepfakes/[PREV]-deepfakes.jpg
 ---
 
 ## ¿Que es un Deepfake? ¿Que tecnología hay detrás?

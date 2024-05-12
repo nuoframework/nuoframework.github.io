@@ -3,7 +3,7 @@ layout: post
 title:  "Desmontando la falsedad online"
 author: Pablo
 categories: [ Cybersecutity, Scams ]
-image: assets/images/5.jpg
+image: assets/images/2023-06-22-Cuentasfalsas-como-identificarlas/[PREV]-Cuentasfalsas-como-identificarlas.jpg
 ---
 
 ## ¿Qué es una cuenta falsa? ¿Cuál es su finalidad?

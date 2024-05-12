@@ -3,7 +3,7 @@ layout: post
 title:  "Vulnerabilidades de Microsoft: Una grave amenaza para la seguridad"
 author: Pablo
 categories: [ Cybersecurity, Authentication ]
-image: assets/images/5.jpg
+image: assets/images/2023-05-12-Microsoftvulns/[PREV]-Microsoftvulns.jpeg
 ---
 
 Microsoft ha publicado una serie de vulnerabilidades en sus productos en los últimos meses. Estas vulnerabilidades afectan a una amplia gama de productos, incluidos Windows, Office, Visual Studio Code entre otros.

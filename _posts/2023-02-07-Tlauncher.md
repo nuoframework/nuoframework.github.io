@@ -3,7 +3,7 @@ layout: post
 title:  "TLauncher, el anzuelo perfecto"
 author: Pablo
 categories: [ Software, Malware ]
-image: assets/images/5.jpg
+image: assets/images/2023-02-07-Tlauncher/[PREV]-Tlauncher.jpeg
 ---
 
 ## Historia de Tlauncher
