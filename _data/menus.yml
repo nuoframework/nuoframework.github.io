@@ -1,0 +1,32 @@
+# Top Menu
+topmenu:
+
+- title: Inicio
+  url: ""
+
+- title: Acerca de
+  url: "acercade/"
+
+- title: Contacto
+  url: "contacto/"
+
+- title: Descargar CV  
+  url: 404/
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: Inicio
+  url: ""
+
+- title: Política de privacidad
+  url: "politicadeprivacidad/"
+
+- title: Contacto
+  url: "contacto/"
+
+- title: Descargar CV
+  url: 404/ 
+  external: true

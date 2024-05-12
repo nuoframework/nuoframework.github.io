@@ -1,28 +1,49 @@
-title: Pablo Arrabal as Nuoframework
-url: "https://nuoframework.github.io"
-baseurl: "/"
-
-remote_theme: ankitsultana/researcher@gem
-
+title: "Blog de ciber"
+email: contacto+blog@pabloarrabal.com
+timezone: UTC
+baseurl: ""
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Pablo
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: G-5LV9LLG044
-
-footer: yes
-footer_url: "https://linktr.ee/nuofrwk"
-footer_text: "Enlace a RRSS"
-
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
 sass:
-    style: compressed
-    sass_dir: /_sass
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
 
-nav:
- - name: "Sobre Mi"
-   link: "index"
- - name: "Contacto"
-   link: "contact"
- - name: "Blog"
-   link: "https://blognuoframework.github.io"
+# Authors
+authors:
+  Pablo:
+    name: Pablo Arrabal Espinosa
+    display_name: Pablo Arrabal Espinosa
+    avatar: 'assets/images/pablo.jpg'
+    email: contacto+blog@pabloarrabal.com
+    web: https://pabloarrabal.com
+    twitter: https://x.com/nuoframework
+    description: "Experto en ciberseguridad y OSINT, formador de empresas y divulgador. Apasionado de las ciberinvestigaciones. Autodidacta y Perfil Público en MyPublicInbox."
 
+# Social
+social:
+  instagram: https://www.instagram.com/nuoframework
+  facebook: https://www.facebook.com/people/Nuoframework/61554763833872/
+  twitter: https://x.com/nuoframework
+  linktree: https://linktr.ee/nuofrwk
 
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
