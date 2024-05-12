@@ -3,7 +3,7 @@ layout: post
 title:  "5 Tips que te ayudarán a mejorar la seguridad de tu empresa"
 author: Pablo
 categories: [ Cybersecutity, Phishing ]
-image: assets/images/5.jpg
+image: assets/images/2024-02-16-Tipsseguridadphish/[PREV]-Tipsseguridadphish.jpg
 ---
 
 # ¿Eres *CISO*, *CIO*, *CDO*, *CTO* o solo te encargas de todo lo relacionado con IT en una empresa? 

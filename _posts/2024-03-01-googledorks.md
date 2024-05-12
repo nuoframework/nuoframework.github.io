@@ -3,7 +3,7 @@ layout: post
 title:  "¿Que es el Google Hacking?, ¿Para que sirve?"
 author: Pablo
 categories: [ Cybersecutity, Dorks ]
-image: assets/images/5.jpg
+image: assets/images/2024-03-01-Googledorks/[PREV]-Googledorks.jpg
 ---
 
 Sabes que día es hoy? Hoy es jueves de hilo, y en especial sobre el Google Hacking o Google Dorking. Veámoslo!!

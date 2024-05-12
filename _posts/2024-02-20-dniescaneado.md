@@ -3,7 +3,7 @@ layout: post
 title:  "¿Es legal que escaneen mi DNI?"
 author: Pablo
 categories: [ Cybersecutity, Information Security ]
-image: assets/images/5.jpg
+image: assets/images/2024-02-20-Dniescaneado/[PREV]-Dniescaneado.png
 ---
 
 Se acercan algunos días festivos, y seguro que te quieres dar una escapada de "vacaciones". Y ya sabes, entras, y te empiezan a pedir datos, nombre, nº de reserva, dni escaneado, la tarjeta de .... PERO, ESPERA, ‼️ ¿COMO QUE DNI ESCANEADO? 😲
