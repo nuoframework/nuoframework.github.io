@@ -1,6 +1,6 @@
-title: "Blog de ciber"
+title: "Blog de ciberseguridad"
 email: contacto+blog@pabloarrabal.com
-timezone: UTC
+timezone: GMT+2
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -8,7 +8,7 @@ favicon: 'assets/images/favicon.ico'
 author: Pablo
 paginate: 30
 disqus: 'demowebsite'
-locale: en_us
+locale: es_es
 lang: es_es
 feed_items: 10
 feed_update_period: daily
@@ -29,7 +29,7 @@ authors:
     display_name: Pablo Arrabal Espinosa
     avatar: 'assets/images/pablo.jpg'
     email: contacto+blog@pabloarrabal.com
-    web: https://pabloarrabal.com
+    web: https://linktr.ee/nuofrwk
     twitter: https://x.com/nuoframework
     description: "Experto en ciberseguridad y OSINT, formador de empresas y divulgador. Apasionado de las ciberinvestigaciones. Autodidacta y Perfil Público en MyPublicInbox."
 
