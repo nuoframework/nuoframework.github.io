@@ -23,7 +23,7 @@ Por cierto, es importante tener claro que yo apoyo la idea de no pagar por el de
 
 De hecho, casi el 60% de las victimas pagó el rescate en 2021 y 2022
 
-![[Pasted image 20240512163753.png]]
+![Estadistica ransomware de kaspersky](/assets/images/2024-05-13-Como-gestionar-incidentes-de-ransomware/Estadisticas.png)
 *Imágenes extraídas desde kaspersky.com
 
 ----
@@ -63,7 +63,7 @@ Ahora toca la parte en la que algunos se llevan las manos a la cabeza porque las
 
 Se nos pueden presentar varios escenarios:
 
-![[Pasted image 20240512163753.png]]
+![Escenarios](/assets/images/2024-05-13-Como-gestionar-incidentes-de-ransomware/Escenarios.png)
 
 *Recordad que después de la recuperación de los datos, hay que realizar un análisis y desinfección antes de la restauración completa
 
