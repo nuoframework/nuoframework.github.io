@@ -10,6 +10,9 @@ topmenu:
 - title: Contacto
   url: "contacto/"
 
+- title: BootCamp 2024
+  url: "bootcamp2024/"
+
 - title: Descargar CV  
   url: 404/
   class: "ml-2 btn btn-dark text-white px-3"
